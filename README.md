@@ -1,3 +1,7 @@
+<!-- Imagen principal del repositorio -->
+<p align="center">
+  <img src="./assets/img/portada.jpg" width="600" alt="Nombre del proyecto">
+</p>
 ---
 
 ## 🎬 PANEL DCG-LAB
